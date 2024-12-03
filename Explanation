@@ -1,1 +1,61 @@
 
+Columns and Their Descriptions:-
+
+Country:
+Name of the South Asian country being analyzed.
+Example values: Afghanistan, Bhutan, India.
+
+Year:
+The year for which the data is recorded.
+Example values: 2000, 2001, 2002.
+
+GDP (current US$):
+The Gross Domestic Product in current US dollars.
+Insights: Reflects the economic size of the country for the specific year.
+
+GDP growth (annual %):
+The annual growth percentage of the GDP.
+Insights: Indicates economic expansion or contraction.
+
+GDP per capita (current US$):
+GDP divided by the total population, representing average economic output per person.
+Insights: Provides a measure of the standard of living.
+
+Unemployment, total (% of total labor force) (modeled ILO estimate):
+The percentage of the total labor force that is unemployed, modeled by the International Labour Organization.
+Insights: Reflects labor market performance.
+
+Population, total:
+Total population of the country for the given year.
+Insights: Useful for demographic analysis and understanding GDP per capita.
+
+
+Life expectancy at birth, total (years):
+The average number of years a newborn is expected to live under current mortality rates.
+Insights: A critical indicator of health and development.
+
+Mortality rate, infant (per 1,000 live births):
+Number of infant deaths per 1,000 live births.
+Insights: Highlights health outcomes and healthcare accessibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
