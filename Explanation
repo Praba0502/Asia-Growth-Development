@@ -28,6 +28,9 @@ Population, total:
 Total population of the country for the given year.
 Insights: Useful for demographic analysis and understanding GDP per capita.
 
+Population growth (annual %):
+The annual percentage growth of the population.
+Insights: Help identify trends in population expansion.
 
 Life expectancy at birth, total (years):
 The average number of years a newborn is expected to live under current mortality rates.
