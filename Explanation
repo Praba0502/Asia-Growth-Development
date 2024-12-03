@@ -1,4 +1,3 @@
-
 Columns and Their Descriptions:-
 
 Country:
@@ -18,11 +17,11 @@ The annual growth percentage of the GDP.
 Insights: Indicates economic expansion or contraction.
 
 GDP per capita (current US$):
-GDP divided by the total population, representing average economic output per person.
+GDP is divided by the total population, representing the average economic output per person.
 Insights: Provides a measure of the standard of living.
 
 Unemployment, total (% of total labor force) (modeled ILO estimate):
-The percentage of the total labor force that is unemployed, modeled by the International Labour Organization.
+The percentage of the total labor force that is unemployed, is modeled by the International Labour Organization.
 Insights: Reflects labor market performance.
 
 Population, total:
